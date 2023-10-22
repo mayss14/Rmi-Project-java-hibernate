@@ -35,7 +35,9 @@ Il pourra aussi afficher les machines disponibles par Salle .
 ![image](https://github.com/mayss14/Rmi-Project-java-hibernate/assets/96689689/edf32732-2ece-4e57-b43a-284f657a60e0)
 ##Machine par Salle
 
-![image](https://github.com/mayss14/Rmi-Project-java-hibernate/assets/96689689/a544df0c-d962-4c2f-b11b-a76b41d77082)
+
+![image](https://github.com/mayss14/Rmi-Project-java-hibernate/assets/96689689/088e3180-ca77-47f6-beaf-5e0b9b8a46b1)
+
 
 ![image](https://github.com/mayss14/Rmi-Project-java-hibernate/assets/96689689/a084459b-27de-481b-b27f-ae7f79b9f79f)
 

@@ -1,4 +1,6 @@
-# Rmi-Project-java-hibernate
+#Rmi-Project-java-hibernate
+
+##Introduction  
 
 Ce projet est une petite application de la communication Client Serveur en utilisant #Rmi et ses principes de (Local registry , stub, skeleton ..)  
 
@@ -18,3 +20,4 @@ une machine ou bien une salle .
 
 Il pourra aussi afficher les machines disponibles par Salle .
 
+##Demo  
